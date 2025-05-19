@@ -2,10 +2,11 @@
 
 Proyecto desarrollado como parte del curso de Ingeniería de Software II (SWE II).
 
-## Descripción
+## Descripción y video
 
 Este proyecto implementa una aplicación web para la gestión de facturas de servicios públicos (agua y luz) utilizando Python y Flask. Los usuarios pueden registrarse, iniciar sesión y consultar sus facturas a través de una interfaz amigable. El sistema incluye autenticación básica y organización modular de componentes.
 
+Youtube : https://youtu.be/yPpG64hALck 
 ## Características principales
 
 - Registro e inicio de sesión de usuarios.
